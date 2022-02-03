@@ -1,4 +1,4 @@
-# HealthNotes Project by Cassandra and Wendy
+# HealthNotes Project by Cassandra, Manny, and Wendy
 
 This is Health Notes, a collaborative archive of medical notation by and for health care professionals.
 
